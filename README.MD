@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Swarnavo Mukherjee</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnavo44&label=Profile%20views&color=0e75b6&style=flat" alt="swarnavo44" /> </p>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swarnavo44" alt="swarnavo44" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/swarnavomuker7" target="blank"><img src="https://img.shields.io/twitter/follow/swarnavomuker7?logo=twitter&style=for-the-badge" alt="swarnavomuker7" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
 
 - 🌱 I’m currently learning *Ethical Hacking , Blockchain , Web 3.0*
 

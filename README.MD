@@ -14,7 +14,7 @@
 
 - 📫 How to reach me *swarnavomukherjeeofficial@gmail.com*
 
-- ⚡ Fun fact *I am an Engineer*
+- ⚡ Fun fact * I am an Engineer , working towards getting a good job 🙃 *
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

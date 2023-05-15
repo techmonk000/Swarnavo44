@@ -1,3 +1,6 @@
+![Mokoto Glitch 1](https://thumbs.gfycat.com/AgonizingEvenHoiho-size_restricted.gif)
+
+
 # 💫 About Me:
 🌱 I’m currently learning Django,ruby,Ethical Hacking<br><br>👨‍💻 All of my projects are available at https://github.com/Swarnavo44<br><br>💬 Ask me about web development<br><br>📫 How to reach me swarnavomukherjee03@gmail.com
 
